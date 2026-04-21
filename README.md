@@ -1,3 +1,5 @@
+![Foundry](docs/header.png)
+
 # Foundry
 
 A personal knowledge vault maintained by Claude. You collect sources. Claude compiles them into a wiki of concepts, connections, and open questions.
