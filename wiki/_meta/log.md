@@ -18,3 +18,7 @@ Sublime Internet article on taste as the differentiator in AI-augmented creative
 ## [2026-04-14] compile | Two-layer knowledge systems
 
 First concept article. Synthesises 2 sources: Karpathy's architecture + Taste article's claim that curation quality determines AI output quality. Central claim: keep the human-curated layer and the LLM-derived layer structurally separate.
+
+## [2026-04-30] query | ai-native-teams-sprints-vs-cycles
+
+No report written — vault contained zero sources touching team process, sprints, cycles, or AI-native workflows. Question logged to Open Questions for future compile runs.

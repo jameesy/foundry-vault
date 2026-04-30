@@ -44,7 +44,7 @@ Active clusters the Foundry is tracking. A thread stabilises as mature at 3 conc
 
 Questions the Foundry owes answers on. `/foundry-ask` pulls from this list when looking for work.
 
-(none yet)
+- How do AI-native teams structure their work — sprints vs cycles, and what processes do they follow? (asked 2026-04-30; vault had no relevant sources at time of asking)
 
 ## Prompts
 
